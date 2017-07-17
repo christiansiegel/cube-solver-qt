@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Cube.qml</file>
+        <file>qml/CubeAlgos.js</file>
+        <file>qml/CubeSide.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/TestView.qml</file>
+        <file>qml/images/symbol_robot.png</file>
+        <file>qml/images/symbol_process.png</file>
+        <file>qml/images/symbol_reset.png</file>
+        <file>qml/images/symbol_play.png</file>
+        <file>qml/images/symbol_eye.png</file>
+        <file>qml/images/symbol_console.png</file>
+        <file>qml/images/symbol_statistics.png</file>
+        <file>qml/images/symbol_gear.png</file>
+        <file>qml/images/symbol_check.png</file>
+        <file>qml/images/symbol_warning.png</file>
+        <file>qml/images/symbol_info.png</file>
+        <file>qml/images/symbol_hand.png</file>
+        <file>qml/images/symbol_rotate.png</file>
+        <file>qml/images/arrow_right.png</file>
+        <file>qml/images/arrow_right_black.png</file>
+        <file>qml/images/arrow_right_shadow.png</file>
+        <file>qml/images/cube_red_shadow.png</file>
+        <file>qml/images/cube_green_shadow.png</file>
+        <file>qml/IconButton.qml</file>
+        <file>qml/VisionView.qml</file>
+        <file>qml/VisionViewMessageBar.qml</file>
+        <file>qml/ProcessView.qml</file>
+        <file>qml/ProcessViewRunningIcon.qml</file>
+        <file>qml/ProcessViewProgressBar.qml</file>
+        <file>qml/RobotView.qml</file>
+        <file>qml/RobotViewGripper.qml</file>
+        <file>qml/ConsoleView.qml</file>
+        <file>qml/ScrollBar.qml</file>
+    </qresource>
+</RCC>
